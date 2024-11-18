@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/Principais JAR&apos;S/SankhyaW-extensions (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/Principais JAR&apos;S/jape.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/Principais JAR&apos;S/cuckoo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/Principais JAR&apos;S/mge-modelcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/Principais JAR&apos;S/sanutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/Principais JAR&apos;S/jbossall-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/Principais JAR&apos;S/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/bibliotecas-sankhya-padrao/repo-bibliotecasJava/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/bibliotecas-sankhya-padrao/json-20220924.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/bibliotecas-sankhya-padrao/base64-2.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/bibliotecas-sankhya-padrao/api_sankhya/sank-controller-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/bibliotecas-sankhya-padrao/api_outros/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/bibliotecas-sankhya-padrao/api_outros/org.apache.oltu.oauth2.common-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/bibliotecas-sankhya-padrao/api_outros/org.apache.oltu.oauth2.client-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/bibliotecas-sankhya-padrao/api_outros/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/bibliotecas-sankhya-padrao/api_outros/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/JAR&apos;S DE PROJETOS/sanutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/Downloads/sanutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maria.silva/eclipse-workspace/bibliotecas-sankhya-padrao/repo-bibliotecasJava/sanws.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
